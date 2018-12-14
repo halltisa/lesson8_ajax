@@ -4,21 +4,15 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+December 2018
 ### Student Name:  
-(First and Last Name)
-
+Tisa Hall
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this assignment, we learned how to add movie categories.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://halltisa.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson, I learned that these database websites simply just have access to other people's data.
+2. I learned how the application sends an HTTP request to the server and the server sends back an HTTP response.
+3. I learned how to add movie elements onto a web page.
